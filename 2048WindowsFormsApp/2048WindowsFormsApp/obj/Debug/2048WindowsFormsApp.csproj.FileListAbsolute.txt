@@ -1,0 +1,12 @@
+C:\Users\Ришат\source\repos\OnlineCourse5Stream\2048WindowsFormsApp\2048WindowsFormsApp\bin\Debug\2048WindowsFormsApp.exe.config
+C:\Users\Ришат\source\repos\OnlineCourse5Stream\2048WindowsFormsApp\2048WindowsFormsApp\bin\Debug\2048WindowsFormsApp.exe
+C:\Users\Ришат\source\repos\OnlineCourse5Stream\2048WindowsFormsApp\2048WindowsFormsApp\bin\Debug\2048WindowsFormsApp.pdb
+C:\Users\Ришат\source\repos\OnlineCourse5Stream\2048WindowsFormsApp\2048WindowsFormsApp\obj\Debug\2048WindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\Ришат\source\repos\OnlineCourse5Stream\2048WindowsFormsApp\2048WindowsFormsApp\obj\Debug\_2048WindowsFormsApp.MainForm.resources
+C:\Users\Ришат\source\repos\OnlineCourse5Stream\2048WindowsFormsApp\2048WindowsFormsApp\obj\Debug\_2048WindowsFormsApp.Properties.Resources.resources
+C:\Users\Ришат\source\repos\OnlineCourse5Stream\2048WindowsFormsApp\2048WindowsFormsApp\obj\Debug\2048WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Ришат\source\repos\OnlineCourse5Stream\2048WindowsFormsApp\2048WindowsFormsApp\obj\Debug\2048WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Ришат\source\repos\OnlineCourse5Stream\2048WindowsFormsApp\2048WindowsFormsApp\obj\Debug\2048WindowsFormsApp.exe
+C:\Users\Ришат\source\repos\OnlineCourse5Stream\2048WindowsFormsApp\2048WindowsFormsApp\obj\Debug\2048WindowsFormsApp.pdb
+C:\Users\Ришат\source\repos\OnlineCourse5Stream\2048WindowsFormsApp\2048WindowsFormsApp\obj\Debug\_2048WindowsFormsApp.FioForm.resources
+C:\Users\Ришат\source\repos\OnlineCourse5Stream\2048WindowsFormsApp\2048WindowsFormsApp\obj\Debug\_2048WindowsFormsApp.resultsForm.resources
